@@ -1,10 +1,10 @@
-# 🚀 Sameer B B - Portfolio
+#  Sameera B B - Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, experience, and contact information as a **Full Stack Software Engineer**.
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** *(Add your Vercel URL here after deployment)*
+🔗 **Portfolio:** *(https://sam-portfolio-beryl.vercel.app/)*
 
 ---
 
