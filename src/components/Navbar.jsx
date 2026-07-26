@@ -252,13 +252,6 @@ export default function Navbar() {
           </ul>
 
           {/* CTA */}
-          <a
-            href="/resume.pdf"
-            target="_blank"
-            rel="noreferrer"
-            className="nav-cta"
-            style={{ display: "none" }}
-          />
           <Link
             to="contact"
             smooth
